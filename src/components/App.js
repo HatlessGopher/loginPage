@@ -1,5 +1,5 @@
 function App() {
-  return "Hello World"
+  <Signup />;
 }
 
 export default App;
